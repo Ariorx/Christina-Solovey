@@ -1,4 +1,4 @@
-# Христина Соловей
+
 <html>
   <head>
     <meta charset="utf-8">
